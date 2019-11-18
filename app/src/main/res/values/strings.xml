@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EAC3_P3_Montse_Camps</string>
+    <string name="titol">Títol</string>
+    <string name="homer">Homer</string>
+    <string name="ull">Ull</string>
+    <string name="engranatge_verd">Engranatge verd</string>
+    <string name="engranatge_blau">Engranatge blau</string>
+    <string name="engranatge_vermell">Engranatge vermell</string>
+    <string name="donut">Donut</string>
+</resources>
